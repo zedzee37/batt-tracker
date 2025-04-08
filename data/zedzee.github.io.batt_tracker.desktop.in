@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=batt-tracker
+Exec=batt-tracker
+Icon=zedzee.github.io.batt_tracker
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

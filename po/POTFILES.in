@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/zedzee.github.io.batt_tracker.desktop.in
+data/zedzee.github.io.batt_tracker.metainfo.xml.in
+data/zedzee.github.io.batt_tracker.gschema.xml
+src/main.c
+src/batt-tracker-window.c
+src/batt-tracker-window.ui
